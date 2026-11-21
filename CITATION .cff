@@ -6,6 +6,7 @@ authors:
   - family-names: "Pisani"
     given-names: "Federico"
     affiliation: "EPFL"
+    orcid: "https://orcid.org/0009-0002-2837-0102" 
   # add the other authors here
 repository-code: "https://github.com/<user>/<repository>"
 license: MIT
